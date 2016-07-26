@@ -11,4 +11,8 @@ When using the agnoster theme for oh my zsh, you need to install patched powerli
 
 Handy things
 ===
-https://github.com/ZZROTDesign/docker-clean
+- Docker
+-- https://github.com/ZZROTDesign/docker-clean
+
+- Fixing npm on osx with homebrew
+-- https://gist.github.com/DanHerbert/9520689
