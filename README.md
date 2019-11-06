@@ -13,6 +13,9 @@ brew tap homebrew/cask-fonts
 brew install font-consolas-for-powerline ...
 ```
 
+### Key config
+https://stackoverflow.com/a/29403520
+
 ## Bash
 
 Install brew's bash (see install_generic.sh).
