@@ -69,3 +69,13 @@ fisher add jorgebucaran/fish-nvm
 <http://ohmyz.sh/>
 
 When using the agnoster theme for oh my zsh, you need to install patched powerline font(s): <https://github.com/powerline/fonts.>
+
+## Kubernetes
+
+<https://github.com/johanhaleby/kubetail>
+
+Tips & tricks for kubectl: <https://discuss.kubernetes.io/t/kubectl-tips-and-tricks/192>
+<https://github.com/turkenh/KubeContext>
+
+## Other
+https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development
